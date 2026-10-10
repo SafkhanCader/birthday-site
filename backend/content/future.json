@@ -1,0 +1,37 @@
+{
+  "intro": "This is only the beginning. Here are a few of the things I can't wait to do with you:",
+  "dreams": [
+    {
+      "id": "f1",
+      "title": "Umrah, together",
+      "text": "Standing side by side before the Kaaba, praying for our little family."
+    },
+    {
+      "id": "f2",
+      "title": "Hajj, hand in hand",
+      "text": "The journey of a lifetime — and I want to make it with you."
+    },
+    {
+      "id": "f3",
+      "title": "See all the countries",
+      "text": "Every city, every sunset, every new adventure — with you beside me."
+    },
+    {
+      "id": "f4",
+      "title": "Buy our own home",
+      "text": "A place full of love, laughter and Fiha's little footsteps."
+    },
+    {
+      "id": "f5",
+      "title": "Grow old laughing",
+      "text": "Still holding hands, still telling the same jokes."
+    },
+    {
+      "id": "f6",
+      "title": "Every birthday, together",
+      "text": "And make each one better than the last."
+    }
+  ],
+  "closing": "Happy birthday, my love.",
+  "photo": "future/wedding-22.JPG"
+}

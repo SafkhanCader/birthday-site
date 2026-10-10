@@ -1,0 +1,21 @@
+{
+  "title": "Your 3 Birthdays With Me",
+  "subtitle": "A little book of us",
+  "dedication": "For you, my love — every page is yours",
+  "entries": [
+    { "chapter": "Birthday one", "date": "13 October 2023", "title": "The first candle", "text": "Our very first birthday together. I was so nervous to get it right — and you smiled like I'd given you the world.", "photo": "book/01.webp", "caption": "The night it all felt real" },
+    { "chapter": "Birthday one", "date": "October 2023", "title": "Cake on your nose", "text": "You laughed so hard you couldn't blow the candles out. I've never loved a mess more.", "photo": "book/02.webp", "caption": "Still my favourite photo" },
+    { "chapter": "Birthday one", "date": "Winter 2023", "title": "Our little traditions", "text": "Late-night walks, hot chocolate, and you stealing my scarf. That's when I knew these were our things now.", "photo": "book/03.webp" },
+    { "chapter": "Birthday two", "date": "13 October 2024", "title": "One year braver", "text": "A whole year of us. You were a little more you, and I was a little more in love.", "photo": "book/04.webp", "caption": "Birthday number two" },
+    { "chapter": "Birthday two", "date": "October 2024", "title": "The surprise that almost wasn't", "text": "You nearly caught me planning it — twice. The look on your face was worth every close call.", "photo": "book/05.webp" },
+    { "chapter": "Birthday two", "date": "Spring 2025", "title": "Everywhere with you", "text": "New places, same hand in mine. Every trip is better because you're the one next to me.", "photo": "book/06.webp", "caption": "Lost, but together" },
+    { "chapter": "Birthday two", "date": "Summer 2025", "title": "Ordinary days", "text": "Sunday mornings, coffee in bed, your sleepy voice. The small things turned out to be the big things.", "photo": "book/07.webp" },
+    { "chapter": "Birthday three", "date": "13 October 2025", "title": "Our third candle", "text": "Three birthdays together. Three chances to tell you that you are the best thing in my life.", "photo": "book/08.webp", "caption": "Three and counting" },
+    { "chapter": "Birthday three", "date": "2026", "title": "What you've taught me", "text": "Patience. Kindness. How to laugh at myself. You've made me a better man without ever asking me to change.", "photo": "book/09.webp" },
+    { "chapter": "Birthday three", "date": "Today", "title": "And now, London", "text": "This birthday isn't a page yet — it's the one we're about to write. Pack your bags, beautiful.", "photo": "book/10.webp", "caption": "The next page starts here" }
+  ],
+  "closing": {
+    "title": "To be continued…",
+    "text": "Three birthdays down, a lifetime to go. I can't wait to fill the next book with you."
+  }
+}

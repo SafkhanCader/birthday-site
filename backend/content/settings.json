@@ -1,0 +1,11 @@
+{
+  "unlockAt": "2026-10-13T00:00:00+01:00",
+  "sealedSections": [
+    "gift",
+    "london"
+  ],
+  "sectionUnlocks": {
+    "london": "2026-11-13T00:00:00+00:00"
+  },
+  "voiceHint": "Hint: the day and month you were born"
+}

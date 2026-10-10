@@ -1,0 +1,42 @@
+[
+  {
+    "id": "first-meet",
+    "date": "14 June 2018",
+    "title": "The day I first saw you",
+    "place": "Where it all began",
+    "text": "I didn't know it yet, but my whole life quietly changed direction that day.",
+    "photo": "journey/F7.JPG"
+  },
+  {
+    "id": "first-date",
+    "date": "2 August 2018",
+    "title": "Our first date",
+    "place": "A little café",
+    "text": "I was nervous, you were perfect, and the coffee went cold because we never stopped talking.",
+    "photo": "journey/F11.jpg"
+  },
+  {
+    "id": "proposal",
+    "date": "20 December 2019",
+    "title": "The question",
+    "place": "Under the winter lights",
+    "text": "You said yes before I finished the sentence. I still smile every time I think about it.",
+    "photo": "journey/S1.JPG"
+  },
+  {
+    "id": "wedding",
+    "date": "15 May 2020",
+    "title": "Forever began",
+    "place": "Our wedding day",
+    "text": "The most beautiful day of my life — because it was the day you became my home.",
+    "photo": "journey/wedding-07.JPEG"
+  },
+  {
+    "id": "home",
+    "date": "3 March 2022",
+    "title": "Our first home",
+    "place": "Our little world",
+    "text": "Four walls, a hundred boxes, and the happiest chaos. Home was never a place — it was you.",
+    "photo": "journey/M1.JPG"
+  }
+]

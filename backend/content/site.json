@@ -1,0 +1,11 @@
+{
+  "herName": "Meenas",
+  "fromName": "Mohamed Safkhan",
+  "birthday": "2026-10-13T00:00:00+01:00",
+  "heroLine": "Today the whole world is celebrating you — and I get to celebrate you the most.",
+  "heroSubline": "Scroll slowly. Every part of this was made for you.",
+  "music": {
+    "src": "music/our-song.mp3",
+    "title": "Our Song"
+  }
+}

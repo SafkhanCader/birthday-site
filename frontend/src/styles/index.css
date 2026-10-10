@@ -1,0 +1,303 @@
+@import "tailwindcss";
+
+/* Dark mode follows the data-theme attribute on <html> (set by ThemeProvider) */
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+/* ------------------------------------------------------------------
+   DESIGN TOKENS
+   Two moods, one set of names — components only ever use the names,
+   so you can retune a colour here without touching any component.
+
+   Light  "Blush & Wine"  — morning light, rose petals, champagne
+   Dark   "Candlelight"   — deep wine, glowing rose, warm gold
+------------------------------------------------------------------- */
+:root {
+  --canvas: #fff6f4;
+  --canvas-soft: #fcebea;
+  --surface: #ffffff;
+  --surface-2: #fbeff0;
+  --ink: #3b1220;
+  --ink-soft: #6e3a4a;
+  --muted: #9a6b78;
+  --line: rgba(142, 27, 58, 0.12);
+
+  --rose: #d6336c;
+  --rose-deep: #9d1c43;
+  --rose-soft: #f7c9d5;
+  --gold: #b8893f;
+  --gold-soft: #efdcb6;
+  --on-rose: #ffffff;
+
+  --glow: rgba(214, 51, 108, 0.28);
+  --aura-1: rgba(247, 201, 213, 0.7);
+  --aura-2: rgba(239, 220, 182, 0.55);
+  --grain-opacity: 0.035;
+
+  color-scheme: light;
+}
+
+[data-theme="dark"] {
+  --canvas: #12060b;
+  --canvas-soft: #1a0a11;
+  --surface: #1f0d15;
+  --surface-2: #2a1220;
+  --ink: #fbeaee;
+  --ink-soft: #e4bfca;
+  --muted: #b58c99;
+  --line: rgba(255, 170, 195, 0.13);
+
+  --rose: #f2648f;
+  --rose-deep: #c9305e;
+  --rose-soft: #4a1a2b;
+  --gold: #e3c07a;
+  --gold-soft: #5a4424;
+  --on-rose: #ffffff;
+
+  --glow: rgba(242, 100, 143, 0.38);
+  --aura-1: rgba(157, 28, 67, 0.35);
+  --aura-2: rgba(227, 192, 122, 0.1);
+  --grain-opacity: 0.06;
+
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-canvas: var(--canvas);
+  --color-canvas-soft: var(--canvas-soft);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-rose: var(--rose);
+  --color-rose-deep: var(--rose-deep);
+  --color-rose-soft: var(--rose-soft);
+  --color-gold: var(--gold);
+  --color-gold-soft: var(--gold-soft);
+  --color-on-rose: var(--on-rose);
+
+  --font-display: "Cormorant Garamond", "Times New Roman", Georgia, serif;
+  --font-script: "Cormorant Garamond", "Times New Roman", Georgia, serif;
+  --font-sans: "Jost", ui-sans-serif, system-ui, sans-serif;
+
+  --animate-heartbeat: heartbeat 1.6s ease-in-out infinite;
+  --animate-float-slow: float-slow 7s ease-in-out infinite;
+  --animate-shimmer: shimmer 3.5s linear infinite;
+}
+
+/* ------------------------------------------------------------------ */
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    min-height: 100dvh;
+    background-color: var(--canvas);
+    background-image:
+      radial-gradient(60rem 40rem at 10% -10%, var(--aura-1), transparent 60%),
+      radial-gradient(50rem 40rem at 110% 20%, var(--aura-2), transparent 60%),
+      radial-gradient(60rem 50rem at 50% 120%, var(--aura-1), transparent 60%);
+    background-attachment: fixed;
+    color: var(--ink);
+    font-family: var(--font-sans);
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    font-variant-numeric: lining-nums;
+    transition:
+      background-color 0.5s ease,
+      color 0.5s ease;
+  }
+
+  /* Film-grain overlay — adds a soft, tactile, photographic feel */
+  body::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: 60;
+    pointer-events: none;
+    opacity: var(--grain-opacity);
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+
+  ::selection {
+    background: var(--rose);
+    color: var(--on-rose);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--rose);
+    outline-offset: 3px;
+    border-radius: 6px;
+  }
+
+  img {
+    user-select: none;
+    -webkit-user-drag: none;
+  }
+}
+
+/* ------------------------------------------------------------------
+   REUSABLE UTILITIES
+------------------------------------------------------------------- */
+
+/* Gradient text: rose → wine → champagne gold */
+@utility text-romance {
+  background-image: linear-gradient(115deg, var(--rose) 0%, var(--rose-deep) 45%, var(--gold) 100%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Frosted glass — top bar, floating controls */
+@utility glass {
+  background: color-mix(in oklab, var(--surface) 68%, transparent);
+  backdrop-filter: blur(16px) saturate(150%);
+  -webkit-backdrop-filter: blur(16px) saturate(150%);
+  border: 1px solid var(--line);
+}
+
+/* Standard content card */
+@utility card-love {
+  background-color: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 1.5rem;
+  box-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.04) inset,
+    0 24px 60px -32px var(--glow);
+}
+
+/* Soft rose glow for highlights */
+@utility shadow-love {
+  box-shadow: 0 22px 60px -18px var(--glow);
+}
+
+/* Primary button */
+@utility btn-love {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border-radius: 9999px;
+  padding: 0.85rem 1.75rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  color: var(--on-rose);
+  background-image: linear-gradient(135deg, var(--rose) 0%, var(--rose-deep) 100%);
+  box-shadow: 0 14px 34px -12px var(--glow);
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease,
+    filter 0.25s ease;
+  &:hover {
+    transform: translateY(-2px);
+    filter: brightness(1.06);
+    box-shadow: 0 20px 44px -12px var(--glow);
+  }
+  &:active {
+    transform: translateY(0) scale(0.98);
+  }
+  &:disabled {
+    opacity: 0.6;
+    pointer-events: none;
+  }
+}
+
+/* Quiet round icon button */
+@utility btn-icon {
+  display: inline-grid;
+  place-items: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 9999px;
+  color: var(--ink-soft);
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease;
+  &:hover {
+    background: var(--surface-2);
+    color: var(--rose);
+  }
+}
+
+/* Letter paper with faint ruled lines */
+@utility paper {
+  background-color: var(--surface);
+  background-image:
+    linear-gradient(to bottom, transparent 2.35rem, var(--line) 2.35rem, var(--line) calc(2.35rem + 1px), transparent calc(2.35rem + 1px));
+  background-size: 100% 2.4rem;
+}
+
+/* Small uppercase label used above section headings */
+@utility eyebrow {
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+@utility no-scrollbar {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* ------------------------------------------------------------------ */
+
+@keyframes heartbeat {
+  0%,
+  100% {
+    transform: scale(1);
+  }
+  15% {
+    transform: scale(1.15);
+  }
+  30% {
+    transform: scale(1);
+  }
+  45% {
+    transform: scale(1.1);
+  }
+}
+
+@keyframes float-slow {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes shimmer {
+  to {
+    background-position: 200% center;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}
+
+/* The "script" role is now a smooth italic serif instead of curly handwriting */
+.font-script {
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+}

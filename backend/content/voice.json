@@ -1,0 +1,2341 @@
+{
+  "title": "Before you blow out the candles",
+  "src": "voice/for-you.m4a",
+  "cues": [
+    {
+      "start": 0.91,
+      "end": 5.67,
+      "text": "Salamu alaykum minas, to begin with,",
+      "words": [
+        {
+          "start": 0.91,
+          "end": 1.81,
+          "text": "Salamu"
+        },
+        {
+          "start": 1.81,
+          "end": 1.99,
+          "text": "alaykum"
+        },
+        {
+          "start": 1.99,
+          "end": 2.29,
+          "text": "minas,"
+        },
+        {
+          "start": 2.85,
+          "end": 4.59,
+          "text": "to"
+        },
+        {
+          "start": 4.59,
+          "end": 5.31,
+          "text": "begin"
+        },
+        {
+          "start": 5.31,
+          "end": 5.67,
+          "text": "with,"
+        }
+      ]
+    },
+    {
+      "start": 5.85,
+      "end": 6.95,
+      "text": "I love you so much.",
+      "words": [
+        {
+          "start": 5.85,
+          "end": 5.99,
+          "text": "I"
+        },
+        {
+          "start": 5.99,
+          "end": 6.15,
+          "text": "love"
+        },
+        {
+          "start": 6.15,
+          "end": 6.29,
+          "text": "you"
+        },
+        {
+          "start": 6.29,
+          "end": 6.51,
+          "text": "so"
+        },
+        {
+          "start": 6.51,
+          "end": 6.95,
+          "text": "much."
+        }
+      ]
+    },
+    {
+      "start": 8.91,
+      "end": 9.43,
+      "text": "Today,",
+      "words": [
+        {
+          "start": 8.91,
+          "end": 9.43,
+          "text": "Today,"
+        }
+      ]
+    },
+    {
+      "start": 10.15,
+      "end": 10.95,
+      "text": "on your birthday,",
+      "words": [
+        {
+          "start": 10.15,
+          "end": 10.47,
+          "text": "on"
+        },
+        {
+          "start": 10.47,
+          "end": 10.63,
+          "text": "your"
+        },
+        {
+          "start": 10.63,
+          "end": 10.95,
+          "text": "birthday,"
+        }
+      ]
+    },
+    {
+      "start": 11.67,
+      "end": 13.75,
+      "text": "I just want to tell you something from my heart.",
+      "words": [
+        {
+          "start": 11.67,
+          "end": 11.71,
+          "text": "I"
+        },
+        {
+          "start": 11.71,
+          "end": 11.93,
+          "text": "just"
+        },
+        {
+          "start": 11.93,
+          "end": 12.17,
+          "text": "want"
+        },
+        {
+          "start": 12.17,
+          "end": 12.31,
+          "text": "to"
+        },
+        {
+          "start": 12.31,
+          "end": 12.51,
+          "text": "tell"
+        },
+        {
+          "start": 12.51,
+          "end": 12.65,
+          "text": "you"
+        },
+        {
+          "start": 12.65,
+          "end": 13.05,
+          "text": "something"
+        },
+        {
+          "start": 13.05,
+          "end": 13.31,
+          "text": "from"
+        },
+        {
+          "start": 13.31,
+          "end": 13.49,
+          "text": "my"
+        },
+        {
+          "start": 13.49,
+          "end": 13.75,
+          "text": "heart."
+        }
+      ]
+    },
+    {
+      "start": 15.17,
+      "end": 16.93,
+      "text": "I don't think I say it enough,",
+      "words": [
+        {
+          "start": 15.17,
+          "end": 15.69,
+          "text": "I"
+        },
+        {
+          "start": 15.69,
+          "end": 15.93,
+          "text": "don't"
+        },
+        {
+          "start": 15.93,
+          "end": 16.09,
+          "text": "think"
+        },
+        {
+          "start": 16.09,
+          "end": 16.25,
+          "text": "I"
+        },
+        {
+          "start": 16.25,
+          "end": 16.45,
+          "text": "say"
+        },
+        {
+          "start": 16.45,
+          "end": 16.67,
+          "text": "it"
+        },
+        {
+          "start": 16.67,
+          "end": 16.93,
+          "text": "enough,"
+        }
+      ]
+    },
+    {
+      "start": 17.51,
+      "end": 19.65,
+      "text": "but I am really, really grateful for you.",
+      "words": [
+        {
+          "start": 17.51,
+          "end": 17.65,
+          "text": "but"
+        },
+        {
+          "start": 17.65,
+          "end": 17.85,
+          "text": "I"
+        },
+        {
+          "start": 17.85,
+          "end": 17.99,
+          "text": "am"
+        },
+        {
+          "start": 17.99,
+          "end": 18.29,
+          "text": "really,"
+        },
+        {
+          "start": 18.29,
+          "end": 18.83,
+          "text": "really"
+        },
+        {
+          "start": 18.83,
+          "end": 19.15,
+          "text": "grateful"
+        },
+        {
+          "start": 19.15,
+          "end": 19.47,
+          "text": "for"
+        },
+        {
+          "start": 19.47,
+          "end": 19.65,
+          "text": "you."
+        }
+      ]
+    },
+    {
+      "start": 22.56,
+      "end": 24.08,
+      "text": "You have always been there for me,",
+      "words": [
+        {
+          "start": 22.56,
+          "end": 22.68,
+          "text": "You"
+        },
+        {
+          "start": 22.68,
+          "end": 22.82,
+          "text": "have"
+        },
+        {
+          "start": 22.82,
+          "end": 23.14,
+          "text": "always"
+        },
+        {
+          "start": 23.14,
+          "end": 23.4,
+          "text": "been"
+        },
+        {
+          "start": 23.4,
+          "end": 23.66,
+          "text": "there"
+        },
+        {
+          "start": 23.66,
+          "end": 23.84,
+          "text": "for"
+        },
+        {
+          "start": 23.84,
+          "end": 24.08,
+          "text": "me,"
+        }
+      ]
+    },
+    {
+      "start": 25.5,
+      "end": 28.98,
+      "text": "through the good days, and especially through the difficult days.",
+      "words": [
+        {
+          "start": 25.5,
+          "end": 25.76,
+          "text": "through"
+        },
+        {
+          "start": 25.76,
+          "end": 25.94,
+          "text": "the"
+        },
+        {
+          "start": 25.94,
+          "end": 26.18,
+          "text": "good"
+        },
+        {
+          "start": 26.18,
+          "end": 26.58,
+          "text": "days,"
+        },
+        {
+          "start": 27.24,
+          "end": 27.34,
+          "text": "and"
+        },
+        {
+          "start": 27.34,
+          "end": 27.7,
+          "text": "especially"
+        },
+        {
+          "start": 27.7,
+          "end": 28.18,
+          "text": "through"
+        },
+        {
+          "start": 28.18,
+          "end": 28.34,
+          "text": "the"
+        },
+        {
+          "start": 28.34,
+          "end": 28.58,
+          "text": "difficult"
+        },
+        {
+          "start": 28.58,
+          "end": 28.98,
+          "text": "days."
+        }
+      ]
+    },
+    {
+      "start": 29.48,
+      "end": 29.98,
+      "text": "You know everything.",
+      "words": [
+        {
+          "start": 29.48,
+          "end": 29.48,
+          "text": "You"
+        },
+        {
+          "start": 29.48,
+          "end": 29.58,
+          "text": "know"
+        },
+        {
+          "start": 29.58,
+          "end": 29.98,
+          "text": "everything."
+        }
+      ]
+    },
+    {
+      "start": 31.34,
+      "end": 33.58,
+      "text": "You never let me feel like I was alone.",
+      "words": [
+        {
+          "start": 31.34,
+          "end": 31.86,
+          "text": "You"
+        },
+        {
+          "start": 31.86,
+          "end": 32.04,
+          "text": "never"
+        },
+        {
+          "start": 32.04,
+          "end": 32.26,
+          "text": "let"
+        },
+        {
+          "start": 32.26,
+          "end": 32.4,
+          "text": "me"
+        },
+        {
+          "start": 32.4,
+          "end": 32.56,
+          "text": "feel"
+        },
+        {
+          "start": 32.56,
+          "end": 32.82,
+          "text": "like"
+        },
+        {
+          "start": 32.82,
+          "end": 33.04,
+          "text": "I"
+        },
+        {
+          "start": 33.04,
+          "end": 33.24,
+          "text": "was"
+        },
+        {
+          "start": 33.24,
+          "end": 33.58,
+          "text": "alone."
+        }
+      ]
+    },
+    {
+      "start": 34.94,
+      "end": 38.3,
+      "text": "You supported me when I needed strength.",
+      "words": [
+        {
+          "start": 34.94,
+          "end": 35.46,
+          "text": "You"
+        },
+        {
+          "start": 35.46,
+          "end": 35.86,
+          "text": "supported"
+        },
+        {
+          "start": 35.86,
+          "end": 36.46,
+          "text": "me"
+        },
+        {
+          "start": 36.46,
+          "end": 37.6,
+          "text": "when"
+        },
+        {
+          "start": 37.6,
+          "end": 37.72,
+          "text": "I"
+        },
+        {
+          "start": 37.72,
+          "end": 37.92,
+          "text": "needed"
+        },
+        {
+          "start": 37.92,
+          "end": 38.3,
+          "text": "strength."
+        }
+      ]
+    },
+    {
+      "start": 39.92,
+      "end": 43.0,
+      "text": "You believed in me when I doubted myself,",
+      "words": [
+        {
+          "start": 39.92,
+          "end": 40.34,
+          "text": "You"
+        },
+        {
+          "start": 40.34,
+          "end": 40.7,
+          "text": "believed"
+        },
+        {
+          "start": 40.7,
+          "end": 40.9,
+          "text": "in"
+        },
+        {
+          "start": 40.9,
+          "end": 41.12,
+          "text": "me"
+        },
+        {
+          "start": 41.12,
+          "end": 42.08,
+          "text": "when"
+        },
+        {
+          "start": 42.08,
+          "end": 42.24,
+          "text": "I"
+        },
+        {
+          "start": 42.24,
+          "end": 42.6,
+          "text": "doubted"
+        },
+        {
+          "start": 42.6,
+          "end": 43.0,
+          "text": "myself,"
+        }
+      ]
+    },
+    {
+      "start": 44.28,
+      "end": 48.5,
+      "text": "and you cared for me even when I didn't know",
+      "words": [
+        {
+          "start": 44.28,
+          "end": 44.96,
+          "text": "and"
+        },
+        {
+          "start": 44.96,
+          "end": 45.18,
+          "text": "you"
+        },
+        {
+          "start": 45.18,
+          "end": 45.72,
+          "text": "cared"
+        },
+        {
+          "start": 45.72,
+          "end": 45.92,
+          "text": "for"
+        },
+        {
+          "start": 45.92,
+          "end": 46.1,
+          "text": "me"
+        },
+        {
+          "start": 46.1,
+          "end": 47.46,
+          "text": "even"
+        },
+        {
+          "start": 47.46,
+          "end": 47.68,
+          "text": "when"
+        },
+        {
+          "start": 47.68,
+          "end": 47.94,
+          "text": "I"
+        },
+        {
+          "start": 47.94,
+          "end": 48.28,
+          "text": "didn't"
+        },
+        {
+          "start": 48.28,
+          "end": 48.5,
+          "text": "know"
+        }
+      ]
+    },
+    {
+      "start": 48.5,
+      "end": 50.16,
+      "text": "how to ask for it.",
+      "words": [
+        {
+          "start": 48.5,
+          "end": 48.9,
+          "text": "how"
+        },
+        {
+          "start": 48.9,
+          "end": 49.12,
+          "text": "to"
+        },
+        {
+          "start": 49.12,
+          "end": 49.34,
+          "text": "ask"
+        },
+        {
+          "start": 49.34,
+          "end": 49.92,
+          "text": "for"
+        },
+        {
+          "start": 49.92,
+          "end": 50.16,
+          "text": "it."
+        }
+      ]
+    },
+    {
+      "start": 52.37,
+      "end": 55.01,
+      "text": "And honestly, you have done so much for me,",
+      "words": [
+        {
+          "start": 52.37,
+          "end": 52.49,
+          "text": "And"
+        },
+        {
+          "start": 52.49,
+          "end": 52.85,
+          "text": "honestly,"
+        },
+        {
+          "start": 53.53,
+          "end": 53.77,
+          "text": "you"
+        },
+        {
+          "start": 53.77,
+          "end": 53.95,
+          "text": "have"
+        },
+        {
+          "start": 53.95,
+          "end": 54.15,
+          "text": "done"
+        },
+        {
+          "start": 54.15,
+          "end": 54.39,
+          "text": "so"
+        },
+        {
+          "start": 54.39,
+          "end": 54.65,
+          "text": "much"
+        },
+        {
+          "start": 54.65,
+          "end": 54.81,
+          "text": "for"
+        },
+        {
+          "start": 54.81,
+          "end": 55.01,
+          "text": "me,"
+        }
+      ]
+    },
+    {
+      "start": 56.31,
+      "end": 58.41,
+      "text": "and the most special thing is,",
+      "words": [
+        {
+          "start": 56.31,
+          "end": 57.03,
+          "text": "and"
+        },
+        {
+          "start": 57.03,
+          "end": 57.15,
+          "text": "the"
+        },
+        {
+          "start": 57.15,
+          "end": 57.37,
+          "text": "most"
+        },
+        {
+          "start": 57.37,
+          "end": 57.81,
+          "text": "special"
+        },
+        {
+          "start": 57.81,
+          "end": 58.07,
+          "text": "thing"
+        },
+        {
+          "start": 58.07,
+          "end": 58.41,
+          "text": "is,"
+        }
+      ]
+    },
+    {
+      "start": 59.03,
+      "end": 62.73,
+      "text": "you did so much without expecting anything back.",
+      "words": [
+        {
+          "start": 59.03,
+          "end": 59.11,
+          "text": "you"
+        },
+        {
+          "start": 59.11,
+          "end": 59.29,
+          "text": "did"
+        },
+        {
+          "start": 59.29,
+          "end": 59.97,
+          "text": "so"
+        },
+        {
+          "start": 59.97,
+          "end": 60.53,
+          "text": "much"
+        },
+        {
+          "start": 61.11,
+          "end": 61.47,
+          "text": "without"
+        },
+        {
+          "start": 61.47,
+          "end": 61.95,
+          "text": "expecting"
+        },
+        {
+          "start": 61.95,
+          "end": 62.37,
+          "text": "anything"
+        },
+        {
+          "start": 62.37,
+          "end": 62.73,
+          "text": "back."
+        }
+      ]
+    },
+    {
+      "start": 65.3,
+      "end": 67.14,
+      "text": "Sometimes I think about my life,",
+      "words": [
+        {
+          "start": 65.3,
+          "end": 65.8,
+          "text": "Sometimes"
+        },
+        {
+          "start": 65.8,
+          "end": 66.04,
+          "text": "I"
+        },
+        {
+          "start": 66.04,
+          "end": 66.26,
+          "text": "think"
+        },
+        {
+          "start": 66.26,
+          "end": 66.52,
+          "text": "about"
+        },
+        {
+          "start": 66.52,
+          "end": 66.72,
+          "text": "my"
+        },
+        {
+          "start": 66.72,
+          "end": 67.14,
+          "text": "life,"
+        }
+      ]
+    },
+    {
+      "start": 68.02,
+      "end": 70.44,
+      "text": "and all the beautiful moments I have experienced.",
+      "words": [
+        {
+          "start": 68.02,
+          "end": 68.16,
+          "text": "and"
+        },
+        {
+          "start": 68.16,
+          "end": 68.44,
+          "text": "all"
+        },
+        {
+          "start": 68.44,
+          "end": 68.66,
+          "text": "the"
+        },
+        {
+          "start": 68.66,
+          "end": 68.88,
+          "text": "beautiful"
+        },
+        {
+          "start": 68.88,
+          "end": 69.3,
+          "text": "moments"
+        },
+        {
+          "start": 69.3,
+          "end": 69.56,
+          "text": "I"
+        },
+        {
+          "start": 69.56,
+          "end": 69.76,
+          "text": "have"
+        },
+        {
+          "start": 69.76,
+          "end": 70.44,
+          "text": "experienced."
+        }
+      ]
+    },
+    {
+      "start": 71.84,
+      "end": 72.72,
+      "text": "And I realize,",
+      "words": [
+        {
+          "start": 71.84,
+          "end": 72.2,
+          "text": "And"
+        },
+        {
+          "start": 72.2,
+          "end": 72.32,
+          "text": "I"
+        },
+        {
+          "start": 72.32,
+          "end": 72.72,
+          "text": "realize,"
+        }
+      ]
+    },
+    {
+      "start": 74.89,
+      "end": 80.17,
+      "text": "the best part of those moments is that I go",
+      "words": [
+        {
+          "start": 74.89,
+          "end": 75.13,
+          "text": "the"
+        },
+        {
+          "start": 75.13,
+          "end": 75.37,
+          "text": "best"
+        },
+        {
+          "start": 75.37,
+          "end": 75.91,
+          "text": "part"
+        },
+        {
+          "start": 75.91,
+          "end": 76.15,
+          "text": "of"
+        },
+        {
+          "start": 76.15,
+          "end": 76.47,
+          "text": "those"
+        },
+        {
+          "start": 76.47,
+          "end": 77.03,
+          "text": "moments"
+        },
+        {
+          "start": 77.03,
+          "end": 78.61,
+          "text": "is"
+        },
+        {
+          "start": 78.61,
+          "end": 79.77,
+          "text": "that"
+        },
+        {
+          "start": 79.77,
+          "end": 79.97,
+          "text": "I"
+        },
+        {
+          "start": 79.97,
+          "end": 80.17,
+          "text": "go"
+        }
+      ]
+    },
+    {
+      "start": 80.17,
+      "end": 82.31,
+      "text": "to experience them with you.",
+      "words": [
+        {
+          "start": 80.17,
+          "end": 80.53,
+          "text": "to"
+        },
+        {
+          "start": 80.53,
+          "end": 81.45,
+          "text": "experience"
+        },
+        {
+          "start": 81.45,
+          "end": 81.81,
+          "text": "them"
+        },
+        {
+          "start": 81.81,
+          "end": 82.05,
+          "text": "with"
+        },
+        {
+          "start": 82.05,
+          "end": 82.31,
+          "text": "you."
+        }
+      ]
+    },
+    {
+      "start": 84.86,
+      "end": 86.48,
+      "text": "You are not just my wife,",
+      "words": [
+        {
+          "start": 84.86,
+          "end": 85.02,
+          "text": "You"
+        },
+        {
+          "start": 85.02,
+          "end": 85.08,
+          "text": "are"
+        },
+        {
+          "start": 85.08,
+          "end": 85.2,
+          "text": "not"
+        },
+        {
+          "start": 85.2,
+          "end": 85.9,
+          "text": "just"
+        },
+        {
+          "start": 85.9,
+          "end": 86.12,
+          "text": "my"
+        },
+        {
+          "start": 86.12,
+          "end": 86.48,
+          "text": "wife,"
+        }
+      ]
+    },
+    {
+      "start": 87.54,
+      "end": 88.24,
+      "text": "you are my comfort,",
+      "words": [
+        {
+          "start": 87.54,
+          "end": 87.68,
+          "text": "you"
+        },
+        {
+          "start": 87.68,
+          "end": 87.74,
+          "text": "are"
+        },
+        {
+          "start": 87.74,
+          "end": 87.9,
+          "text": "my"
+        },
+        {
+          "start": 87.9,
+          "end": 88.24,
+          "text": "comfort,"
+        }
+      ]
+    },
+    {
+      "start": 89.56,
+      "end": 90.92,
+      "text": "my biggest support.",
+      "words": [
+        {
+          "start": 89.56,
+          "end": 89.98,
+          "text": "my"
+        },
+        {
+          "start": 89.98,
+          "end": 90.28,
+          "text": "biggest"
+        },
+        {
+          "start": 90.28,
+          "end": 90.92,
+          "text": "support."
+        }
+      ]
+    },
+    {
+      "start": 92.2,
+      "end": 93.4,
+      "text": "My best friend,",
+      "words": [
+        {
+          "start": 92.2,
+          "end": 92.76,
+          "text": "My"
+        },
+        {
+          "start": 92.76,
+          "end": 93.02,
+          "text": "best"
+        },
+        {
+          "start": 93.02,
+          "end": 93.4,
+          "text": "friend,"
+        }
+      ]
+    },
+    {
+      "start": 95.45,
+      "end": 97.21,
+      "text": "and you are the person I know,",
+      "words": [
+        {
+          "start": 95.45,
+          "end": 96.01,
+          "text": "and"
+        },
+        {
+          "start": 96.01,
+          "end": 96.19,
+          "text": "you"
+        },
+        {
+          "start": 96.19,
+          "end": 96.27,
+          "text": "are"
+        },
+        {
+          "start": 96.27,
+          "end": 96.41,
+          "text": "the"
+        },
+        {
+          "start": 96.41,
+          "end": 96.79,
+          "text": "person"
+        },
+        {
+          "start": 96.79,
+          "end": 97.01,
+          "text": "I"
+        },
+        {
+          "start": 97.01,
+          "end": 97.21,
+          "text": "know,"
+        }
+      ]
+    },
+    {
+      "start": 97.57,
+      "end": 99.03,
+      "text": "I can always come home to.",
+      "words": [
+        {
+          "start": 97.57,
+          "end": 97.71,
+          "text": "I"
+        },
+        {
+          "start": 97.71,
+          "end": 97.87,
+          "text": "can"
+        },
+        {
+          "start": 97.87,
+          "end": 98.23,
+          "text": "always"
+        },
+        {
+          "start": 98.23,
+          "end": 98.53,
+          "text": "come"
+        },
+        {
+          "start": 98.53,
+          "end": 98.85,
+          "text": "home"
+        },
+        {
+          "start": 98.85,
+          "end": 99.03,
+          "text": "to."
+        }
+      ]
+    },
+    {
+      "start": 101.84,
+      "end": 105.1,
+      "text": "Thank you so much for all the little things you",
+      "words": [
+        {
+          "start": 101.84,
+          "end": 102.3,
+          "text": "Thank"
+        },
+        {
+          "start": 102.3,
+          "end": 102.6,
+          "text": "you"
+        },
+        {
+          "start": 102.6,
+          "end": 102.78,
+          "text": "so"
+        },
+        {
+          "start": 102.78,
+          "end": 103.2,
+          "text": "much"
+        },
+        {
+          "start": 103.2,
+          "end": 103.7,
+          "text": "for"
+        },
+        {
+          "start": 103.7,
+          "end": 104.04,
+          "text": "all"
+        },
+        {
+          "start": 104.04,
+          "end": 104.24,
+          "text": "the"
+        },
+        {
+          "start": 104.24,
+          "end": 104.46,
+          "text": "little"
+        },
+        {
+          "start": 104.46,
+          "end": 104.78,
+          "text": "things"
+        },
+        {
+          "start": 104.78,
+          "end": 105.1,
+          "text": "you"
+        }
+      ]
+    },
+    {
+      "start": 105.1,
+      "end": 105.26,
+      "text": "do.",
+      "words": [
+        {
+          "start": 105.1,
+          "end": 105.26,
+          "text": "do."
+        }
+      ]
+    },
+    {
+      "start": 106.52,
+      "end": 108.38,
+      "text": "Thank you for your patience.",
+      "words": [
+        {
+          "start": 106.52,
+          "end": 106.8,
+          "text": "Thank"
+        },
+        {
+          "start": 106.8,
+          "end": 107.08,
+          "text": "you"
+        },
+        {
+          "start": 107.08,
+          "end": 107.72,
+          "text": "for"
+        },
+        {
+          "start": 107.72,
+          "end": 107.94,
+          "text": "your"
+        },
+        {
+          "start": 107.94,
+          "end": 108.38,
+          "text": "patience."
+        }
+      ]
+    },
+    {
+      "start": 109.88,
+      "end": 110.94,
+      "text": "Thank you for your kindness.",
+      "words": [
+        {
+          "start": 109.88,
+          "end": 110.16,
+          "text": "Thank"
+        },
+        {
+          "start": 110.16,
+          "end": 110.34,
+          "text": "you"
+        },
+        {
+          "start": 110.34,
+          "end": 110.44,
+          "text": "for"
+        },
+        {
+          "start": 110.44,
+          "end": 110.6,
+          "text": "your"
+        },
+        {
+          "start": 110.6,
+          "end": 110.94,
+          "text": "kindness."
+        }
+      ]
+    },
+    {
+      "start": 112.6,
+      "end": 115.9,
+      "text": "Thank you for taking help with me when I was,",
+      "words": [
+        {
+          "start": 112.6,
+          "end": 112.9,
+          "text": "Thank"
+        },
+        {
+          "start": 112.9,
+          "end": 113.06,
+          "text": "you"
+        },
+        {
+          "start": 113.06,
+          "end": 113.22,
+          "text": "for"
+        },
+        {
+          "start": 113.22,
+          "end": 113.46,
+          "text": "taking"
+        },
+        {
+          "start": 113.46,
+          "end": 113.84,
+          "text": "help"
+        },
+        {
+          "start": 113.84,
+          "end": 114.08,
+          "text": "with"
+        },
+        {
+          "start": 114.08,
+          "end": 114.3,
+          "text": "me"
+        },
+        {
+          "start": 114.3,
+          "end": 115.5,
+          "text": "when"
+        },
+        {
+          "start": 115.5,
+          "end": 115.68,
+          "text": "I"
+        },
+        {
+          "start": 115.68,
+          "end": 115.9,
+          "text": "was,"
+        }
+      ]
+    },
+    {
+      "start": 116.84,
+      "end": 120.1,
+      "text": "even when I don't say that I need it.",
+      "words": [
+        {
+          "start": 116.84,
+          "end": 117.24,
+          "text": "even"
+        },
+        {
+          "start": 117.24,
+          "end": 117.52,
+          "text": "when"
+        },
+        {
+          "start": 117.52,
+          "end": 117.72,
+          "text": "I"
+        },
+        {
+          "start": 117.72,
+          "end": 118.08,
+          "text": "don't"
+        },
+        {
+          "start": 118.08,
+          "end": 118.36,
+          "text": "say"
+        },
+        {
+          "start": 118.36,
+          "end": 119.44,
+          "text": "that"
+        },
+        {
+          "start": 119.44,
+          "end": 119.66,
+          "text": "I"
+        },
+        {
+          "start": 119.66,
+          "end": 119.84,
+          "text": "need"
+        },
+        {
+          "start": 119.84,
+          "end": 120.1,
+          "text": "it."
+        }
+      ]
+    },
+    {
+      "start": 121.28,
+      "end": 124.64,
+      "text": "And thank you for giving up on me.",
+      "words": [
+        {
+          "start": 121.28,
+          "end": 121.9,
+          "text": "And"
+        },
+        {
+          "start": 121.9,
+          "end": 122.12,
+          "text": "thank"
+        },
+        {
+          "start": 122.12,
+          "end": 122.5,
+          "text": "you"
+        },
+        {
+          "start": 122.5,
+          "end": 123.28,
+          "text": "for"
+        },
+        {
+          "start": 123.28,
+          "end": 123.58,
+          "text": "giving"
+        },
+        {
+          "start": 123.58,
+          "end": 124.28,
+          "text": "up"
+        },
+        {
+          "start": 124.28,
+          "end": 124.44,
+          "text": "on"
+        },
+        {
+          "start": 124.44,
+          "end": 124.64,
+          "text": "me."
+        }
+      ]
+    },
+    {
+      "start": 127.48,
+      "end": 129.82,
+      "text": "I know I don't always say everything I feel,",
+      "words": [
+        {
+          "start": 127.48,
+          "end": 127.56,
+          "text": "I"
+        },
+        {
+          "start": 127.56,
+          "end": 127.76,
+          "text": "know"
+        },
+        {
+          "start": 127.76,
+          "end": 127.96,
+          "text": "I"
+        },
+        {
+          "start": 127.96,
+          "end": 128.22,
+          "text": "don't"
+        },
+        {
+          "start": 128.22,
+          "end": 128.58,
+          "text": "always"
+        },
+        {
+          "start": 128.58,
+          "end": 128.9,
+          "text": "say"
+        },
+        {
+          "start": 128.9,
+          "end": 129.26,
+          "text": "everything"
+        },
+        {
+          "start": 129.26,
+          "end": 129.46,
+          "text": "I"
+        },
+        {
+          "start": 129.46,
+          "end": 129.82,
+          "text": "feel,"
+        }
+      ]
+    },
+    {
+      "start": 130.04,
+      "end": 134.76,
+      "text": "and I know I don't always say it perfectly,",
+      "words": [
+        {
+          "start": 130.04,
+          "end": 131.34,
+          "text": "and"
+        },
+        {
+          "start": 131.34,
+          "end": 131.54,
+          "text": "I"
+        },
+        {
+          "start": 131.54,
+          "end": 131.8,
+          "text": "know"
+        },
+        {
+          "start": 131.8,
+          "end": 132.76,
+          "text": "I"
+        },
+        {
+          "start": 132.76,
+          "end": 133.0,
+          "text": "don't"
+        },
+        {
+          "start": 133.0,
+          "end": 133.28,
+          "text": "always"
+        },
+        {
+          "start": 133.28,
+          "end": 133.56,
+          "text": "say"
+        },
+        {
+          "start": 133.56,
+          "end": 133.86,
+          "text": "it"
+        },
+        {
+          "start": 133.86,
+          "end": 134.76,
+          "text": "perfectly,"
+        }
+      ]
+    },
+    {
+      "start": 136.53,
+      "end": 139.13,
+      "text": "but I want you to know this.",
+      "words": [
+        {
+          "start": 136.53,
+          "end": 137.07,
+          "text": "but"
+        },
+        {
+          "start": 137.07,
+          "end": 137.21,
+          "text": "I"
+        },
+        {
+          "start": 137.21,
+          "end": 137.41,
+          "text": "want"
+        },
+        {
+          "start": 137.41,
+          "end": 137.81,
+          "text": "you"
+        },
+        {
+          "start": 137.81,
+          "end": 138.49,
+          "text": "to"
+        },
+        {
+          "start": 138.49,
+          "end": 138.77,
+          "text": "know"
+        },
+        {
+          "start": 138.77,
+          "end": 139.13,
+          "text": "this."
+        }
+      ]
+    },
+    {
+      "start": 140.55,
+      "end": 142.45,
+      "text": "I see everything you do for me.",
+      "words": [
+        {
+          "start": 140.55,
+          "end": 141.17,
+          "text": "I"
+        },
+        {
+          "start": 141.17,
+          "end": 141.37,
+          "text": "see"
+        },
+        {
+          "start": 141.37,
+          "end": 141.75,
+          "text": "everything"
+        },
+        {
+          "start": 141.75,
+          "end": 141.95,
+          "text": "you"
+        },
+        {
+          "start": 141.95,
+          "end": 142.07,
+          "text": "do"
+        },
+        {
+          "start": 142.07,
+          "end": 142.29,
+          "text": "for"
+        },
+        {
+          "start": 142.29,
+          "end": 142.45,
+          "text": "me."
+        }
+      ]
+    },
+    {
+      "start": 143.99,
+      "end": 145.85,
+      "text": "I appreciate everything you are,",
+      "words": [
+        {
+          "start": 143.99,
+          "end": 144.61,
+          "text": "I"
+        },
+        {
+          "start": 144.61,
+          "end": 145.03,
+          "text": "appreciate"
+        },
+        {
+          "start": 145.03,
+          "end": 145.35,
+          "text": "everything"
+        },
+        {
+          "start": 145.35,
+          "end": 145.69,
+          "text": "you"
+        },
+        {
+          "start": 145.69,
+          "end": 145.85,
+          "text": "are,"
+        }
+      ]
+    },
+    {
+      "start": 147.93,
+      "end": 150.31,
+      "text": "and I will never take you for granted.",
+      "words": [
+        {
+          "start": 147.93,
+          "end": 148.23,
+          "text": "and"
+        },
+        {
+          "start": 148.23,
+          "end": 148.41,
+          "text": "I"
+        },
+        {
+          "start": 148.41,
+          "end": 148.73,
+          "text": "will"
+        },
+        {
+          "start": 148.73,
+          "end": 149.29,
+          "text": "never"
+        },
+        {
+          "start": 149.29,
+          "end": 149.55,
+          "text": "take"
+        },
+        {
+          "start": 149.55,
+          "end": 149.73,
+          "text": "you"
+        },
+        {
+          "start": 149.73,
+          "end": 149.93,
+          "text": "for"
+        },
+        {
+          "start": 149.93,
+          "end": 150.31,
+          "text": "granted."
+        }
+      ]
+    },
+    {
+      "start": 152.32,
+      "end": 157.68,
+      "text": "If I could choose one person to share every beautiful",
+      "words": [
+        {
+          "start": 152.32,
+          "end": 152.72,
+          "text": "If"
+        },
+        {
+          "start": 152.72,
+          "end": 152.88,
+          "text": "I"
+        },
+        {
+          "start": 152.88,
+          "end": 153.1,
+          "text": "could"
+        },
+        {
+          "start": 153.1,
+          "end": 153.92,
+          "text": "choose"
+        },
+        {
+          "start": 153.92,
+          "end": 154.2,
+          "text": "one"
+        },
+        {
+          "start": 154.2,
+          "end": 154.6,
+          "text": "person"
+        },
+        {
+          "start": 154.6,
+          "end": 156.6,
+          "text": "to"
+        },
+        {
+          "start": 156.6,
+          "end": 156.84,
+          "text": "share"
+        },
+        {
+          "start": 156.84,
+          "end": 157.26,
+          "text": "every"
+        },
+        {
+          "start": 157.26,
+          "end": 157.68,
+          "text": "beautiful"
+        }
+      ]
+    },
+    {
+      "start": 157.68,
+      "end": 159.38,
+      "text": "moment of my life with",
+      "words": [
+        {
+          "start": 157.68,
+          "end": 158.02,
+          "text": "moment"
+        },
+        {
+          "start": 158.02,
+          "end": 158.2,
+          "text": "of"
+        },
+        {
+          "start": 158.2,
+          "end": 158.38,
+          "text": "my"
+        },
+        {
+          "start": 158.38,
+          "end": 158.82,
+          "text": "life"
+        },
+        {
+          "start": 158.82,
+          "end": 159.38,
+          "text": "with"
+        }
+      ]
+    },
+    {
+      "start": 160.82,
+      "end": 162.32,
+      "text": "every journey,",
+      "words": [
+        {
+          "start": 160.82,
+          "end": 161.9,
+          "text": "every"
+        },
+        {
+          "start": 161.9,
+          "end": 162.32,
+          "text": "journey,"
+        }
+      ]
+    },
+    {
+      "start": 164.66,
+      "end": 167.0,
+      "text": "every success, every ordinary day,",
+      "words": [
+        {
+          "start": 164.66,
+          "end": 165.06,
+          "text": "every"
+        },
+        {
+          "start": 165.06,
+          "end": 165.44,
+          "text": "success,"
+        },
+        {
+          "start": 166.06,
+          "end": 166.26,
+          "text": "every"
+        },
+        {
+          "start": 166.26,
+          "end": 166.62,
+          "text": "ordinary"
+        },
+        {
+          "start": 166.62,
+          "end": 167.0,
+          "text": "day,"
+        }
+      ]
+    },
+    {
+      "start": 167.72,
+      "end": 170.94,
+      "text": "and even all the crazy little moments,",
+      "words": [
+        {
+          "start": 167.72,
+          "end": 169.2,
+          "text": "and"
+        },
+        {
+          "start": 169.2,
+          "end": 169.42,
+          "text": "even"
+        },
+        {
+          "start": 169.42,
+          "end": 169.74,
+          "text": "all"
+        },
+        {
+          "start": 169.74,
+          "end": 169.9,
+          "text": "the"
+        },
+        {
+          "start": 169.9,
+          "end": 170.24,
+          "text": "crazy"
+        },
+        {
+          "start": 170.24,
+          "end": 170.54,
+          "text": "little"
+        },
+        {
+          "start": 170.54,
+          "end": 170.94,
+          "text": "moments,"
+        }
+      ]
+    },
+    {
+      "start": 171.66,
+      "end": 173.58,
+      "text": "I would choose you.",
+      "words": [
+        {
+          "start": 171.66,
+          "end": 172.54,
+          "text": "I"
+        },
+        {
+          "start": 172.54,
+          "end": 172.72,
+          "text": "would"
+        },
+        {
+          "start": 172.72,
+          "end": 173.18,
+          "text": "choose"
+        },
+        {
+          "start": 173.18,
+          "end": 173.58,
+          "text": "you."
+        }
+      ]
+    },
+    {
+      "start": 174.92,
+      "end": 176.22,
+      "text": "Every single time,",
+      "words": [
+        {
+          "start": 174.92,
+          "end": 175.48,
+          "text": "Every"
+        },
+        {
+          "start": 175.48,
+          "end": 175.88,
+          "text": "single"
+        },
+        {
+          "start": 175.88,
+          "end": 176.22,
+          "text": "time,"
+        }
+      ]
+    },
+    {
+      "start": 179.19,
+      "end": 182.47,
+      "text": "on your birthday, I don't just wish you happiness.",
+      "words": [
+        {
+          "start": 179.19,
+          "end": 179.51,
+          "text": "on"
+        },
+        {
+          "start": 179.51,
+          "end": 179.61,
+          "text": "your"
+        },
+        {
+          "start": 179.61,
+          "end": 180.01,
+          "text": "birthday,"
+        },
+        {
+          "start": 180.63,
+          "end": 180.69,
+          "text": "I"
+        },
+        {
+          "start": 180.69,
+          "end": 180.97,
+          "text": "don't"
+        },
+        {
+          "start": 180.97,
+          "end": 181.23,
+          "text": "just"
+        },
+        {
+          "start": 181.23,
+          "end": 181.39,
+          "text": "wish"
+        },
+        {
+          "start": 181.39,
+          "end": 181.63,
+          "text": "you"
+        },
+        {
+          "start": 181.63,
+          "end": 182.47,
+          "text": "happiness."
+        }
+      ]
+    },
+    {
+      "start": 183.59,
+      "end": 187.17,
+      "text": "I wish that I can spend my life giving you,",
+      "words": [
+        {
+          "start": 183.59,
+          "end": 184.19,
+          "text": "I"
+        },
+        {
+          "start": 184.19,
+          "end": 184.49,
+          "text": "wish"
+        },
+        {
+          "start": 184.49,
+          "end": 184.91,
+          "text": "that"
+        },
+        {
+          "start": 184.91,
+          "end": 185.07,
+          "text": "I"
+        },
+        {
+          "start": 185.07,
+          "end": 185.21,
+          "text": "can"
+        },
+        {
+          "start": 185.21,
+          "end": 185.47,
+          "text": "spend"
+        },
+        {
+          "start": 185.47,
+          "end": 185.71,
+          "text": "my"
+        },
+        {
+          "start": 185.71,
+          "end": 186.57,
+          "text": "life"
+        },
+        {
+          "start": 186.57,
+          "end": 186.89,
+          "text": "giving"
+        },
+        {
+          "start": 186.89,
+          "end": 187.17,
+          "text": "you,"
+        }
+      ]
+    },
+    {
+      "start": 187.47,
+      "end": 189.63,
+      "text": "even a little of the love,",
+      "words": [
+        {
+          "start": 187.47,
+          "end": 188.31,
+          "text": "even"
+        },
+        {
+          "start": 188.31,
+          "end": 188.45,
+          "text": "a"
+        },
+        {
+          "start": 188.45,
+          "end": 188.63,
+          "text": "little"
+        },
+        {
+          "start": 188.63,
+          "end": 188.99,
+          "text": "of"
+        },
+        {
+          "start": 188.99,
+          "end": 189.25,
+          "text": "the"
+        },
+        {
+          "start": 189.25,
+          "end": 189.63,
+          "text": "love,"
+        }
+      ]
+    },
+    {
+      "start": 190.09,
+      "end": 194.83,
+      "text": "the care and the happiness that you have given me.",
+      "words": [
+        {
+          "start": 190.09,
+          "end": 191.11,
+          "text": "the"
+        },
+        {
+          "start": 191.11,
+          "end": 191.39,
+          "text": "care"
+        },
+        {
+          "start": 191.39,
+          "end": 191.91,
+          "text": "and"
+        },
+        {
+          "start": 191.91,
+          "end": 192.19,
+          "text": "the"
+        },
+        {
+          "start": 192.19,
+          "end": 192.91,
+          "text": "happiness"
+        },
+        {
+          "start": 192.91,
+          "end": 193.65,
+          "text": "that"
+        },
+        {
+          "start": 193.65,
+          "end": 193.81,
+          "text": "you"
+        },
+        {
+          "start": 193.81,
+          "end": 194.01,
+          "text": "have"
+        },
+        {
+          "start": 194.01,
+          "end": 194.55,
+          "text": "given"
+        },
+        {
+          "start": 194.55,
+          "end": 194.83,
+          "text": "me."
+        }
+      ]
+    },
+    {
+      "start": 195.89,
+      "end": 198.05,
+      "text": "Happy birthday, my love, my Venus.",
+      "words": [
+        {
+          "start": 195.89,
+          "end": 196.49,
+          "text": "Happy"
+        },
+        {
+          "start": 196.49,
+          "end": 196.87,
+          "text": "birthday,"
+        },
+        {
+          "start": 197.01,
+          "end": 197.09,
+          "text": "my"
+        },
+        {
+          "start": 197.09,
+          "end": 197.33,
+          "text": "love,"
+        },
+        {
+          "start": 197.69,
+          "end": 197.79,
+          "text": "my"
+        },
+        {
+          "start": 197.79,
+          "end": 198.05,
+          "text": "Venus."
+        }
+      ]
+    },
+    {
+      "start": 198.97,
+      "end": 202.25,
+      "text": "You are one of the greatest blessing in my life,",
+      "words": [
+        {
+          "start": 198.97,
+          "end": 199.33,
+          "text": "You"
+        },
+        {
+          "start": 199.33,
+          "end": 199.55,
+          "text": "are"
+        },
+        {
+          "start": 199.55,
+          "end": 200.41,
+          "text": "one"
+        },
+        {
+          "start": 200.41,
+          "end": 200.53,
+          "text": "of"
+        },
+        {
+          "start": 200.53,
+          "end": 200.67,
+          "text": "the"
+        },
+        {
+          "start": 200.67,
+          "end": 200.99,
+          "text": "greatest"
+        },
+        {
+          "start": 200.99,
+          "end": 201.45,
+          "text": "blessing"
+        },
+        {
+          "start": 201.45,
+          "end": 201.71,
+          "text": "in"
+        },
+        {
+          "start": 201.71,
+          "end": 201.89,
+          "text": "my"
+        },
+        {
+          "start": 201.89,
+          "end": 202.25,
+          "text": "life,"
+        }
+      ]
+    },
+    {
+      "start": 202.55,
+      "end": 203.19,
+      "text": "Ahamdulillah.",
+      "words": [
+        {
+          "start": 202.55,
+          "end": 203.19,
+          "text": "Ahamdulillah."
+        }
+      ]
+    },
+    {
+      "start": 204.31,
+      "end": 206.63,
+      "text": "And I honestly feel so,",
+      "words": [
+        {
+          "start": 204.31,
+          "end": 204.53,
+          "text": "And"
+        },
+        {
+          "start": 204.53,
+          "end": 204.65,
+          "text": "I"
+        },
+        {
+          "start": 204.65,
+          "end": 205.07,
+          "text": "honestly"
+        },
+        {
+          "start": 205.07,
+          "end": 205.89,
+          "text": "feel"
+        },
+        {
+          "start": 205.89,
+          "end": 206.63,
+          "text": "so,"
+        }
+      ]
+    },
+    {
+      "start": 206.97,
+      "end": 209.29,
+      "text": "so lucky to call you my wife.",
+      "words": [
+        {
+          "start": 206.97,
+          "end": 207.23,
+          "text": "so"
+        },
+        {
+          "start": 207.23,
+          "end": 207.71,
+          "text": "lucky"
+        },
+        {
+          "start": 207.71,
+          "end": 208.39,
+          "text": "to"
+        },
+        {
+          "start": 208.39,
+          "end": 208.67,
+          "text": "call"
+        },
+        {
+          "start": 208.67,
+          "end": 208.83,
+          "text": "you"
+        },
+        {
+          "start": 208.83,
+          "end": 209.01,
+          "text": "my"
+        },
+        {
+          "start": 209.01,
+          "end": 209.29,
+          "text": "wife."
+        }
+      ]
+    },
+    {
+      "start": 210.11,
+      "end": 211.85,
+      "text": "I love you so much darling,",
+      "words": [
+        {
+          "start": 210.11,
+          "end": 210.71,
+          "text": "I"
+        },
+        {
+          "start": 210.71,
+          "end": 210.87,
+          "text": "love"
+        },
+        {
+          "start": 210.87,
+          "end": 211.05,
+          "text": "you"
+        },
+        {
+          "start": 211.05,
+          "end": 211.27,
+          "text": "so"
+        },
+        {
+          "start": 211.27,
+          "end": 211.57,
+          "text": "much"
+        },
+        {
+          "start": 211.57,
+          "end": 211.85,
+          "text": "darling,"
+        }
+      ]
+    },
+    {
+      "start": 213.05,
+      "end": 213.63,
+      "text": "always.",
+      "words": [
+        {
+          "start": 213.05,
+          "end": 213.63,
+          "text": "always."
+        }
+      ]
+    }
+  ]
+}

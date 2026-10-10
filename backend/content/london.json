@@ -1,0 +1,85 @@
+{
+  "headline": "Pack your bags, beautiful. We're going to London.",
+  "from": "Home",
+  "fromCode": "HOME",
+  "to": "London",
+  "toCode": "LDN",
+  "departDate": "Sat 17 Oct",
+  "returnDate": "Mon 19 Oct",
+  "stay": "A cosy hotel by the river",
+  "days": [
+    {
+      "label": "Day 1",
+      "date": "Sat 17 Oct",
+      "title": "Arrival & river lights",
+      "items": [
+        {
+          "time": "11:00",
+          "title": "Train into London",
+          "note": "Window seat is yours"
+        },
+        {
+          "time": "15:00",
+          "title": "Check in & rest"
+        },
+        {
+          "time": "18:30",
+          "title": "Walk along the South Bank",
+          "note": "Golden hour by the Thames"
+        },
+        {
+          "time": "20:00",
+          "title": "Candlelit dinner",
+          "note": "Table for two, booked"
+        }
+      ]
+    },
+    {
+      "label": "Day 2",
+      "date": "Sun 18 Oct",
+      "title": "Just us",
+      "items": [
+        {
+          "time": "10:00",
+          "title": "Slow breakfast"
+        },
+        {
+          "time": "12:00",
+          "title": "Covent Garden & shopping"
+        },
+        {
+          "time": "16:00",
+          "title": "Afternoon tea"
+        },
+        {
+          "time": "19:30",
+          "title": "A surprise evening",
+          "note": "Dress up a little ✨"
+        }
+      ]
+    },
+    {
+      "label": "Day 3",
+      "date": "Mon 19 Oct",
+      "title": "One last memory",
+      "items": [
+        {
+          "time": "10:30",
+          "title": "Park stroll & coffee"
+        },
+        {
+          "time": "14:00",
+          "title": "Train home, hand in hand"
+        }
+      ]
+    }
+  ],
+  "packing": [
+    "A beautiful dress",
+    "Comfy walking shoes",
+    "Warm coat",
+    "Phone charger",
+    "Your favourite perfume",
+    "Your smile"
+  ]
+}

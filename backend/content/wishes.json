@@ -1,0 +1,26 @@
+[
+  {
+    "id": "w1",
+    "name": "Mum",
+    "relation": "Family",
+    "message": "Happy birthday to our beautiful daughter. May your year be as bright as your heart."
+  },
+  {
+    "id": "w2",
+    "name": "Sister",
+    "relation": "Family",
+    "message": "To my best friend forever — have the most magical day. Love you endlessly!"
+  },
+  {
+    "id": "w3",
+    "name": "Best Friend",
+    "relation": "Friend",
+    "message": "You deserve every bit of happiness in the world. Enjoy London, queen!"
+  },
+  {
+    "id": "w4",
+    "name": "Dad",
+    "relation": "Family",
+    "message": "Proud of the woman you are. Happy birthday, sweetheart."
+  }
+]

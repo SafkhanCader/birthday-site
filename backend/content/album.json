@@ -1,0 +1,105 @@
+[
+  {
+    "id": "beginning",
+    "title": "The Beginning",
+    "subtitle": "Where our story started",
+    "photos": [
+      {
+        "src": "album/beginning/01.webp",
+        "w": 800,
+        "h": 1000,
+        "caption": "Our very first photo together"
+      },
+      {
+        "src": "album/beginning/02.webp",
+        "w": 1000,
+        "h": 700,
+        "caption": "That evening walk"
+      },
+      {
+        "src": "album/beginning/03.webp",
+        "w": 800,
+        "h": 800
+      },
+      {
+        "src": "album/beginning/04.webp",
+        "w": 800,
+        "h": 1100,
+        "caption": "Your smile, always"
+      },
+      {
+        "src": "album/beginning/05.webp",
+        "w": 1000,
+        "h": 700
+      },
+      {
+        "src": "album/beginning/06.webp",
+        "w": 800,
+        "h": 1000
+      }
+    ]
+  },
+  {
+    "id": "adventures",
+    "title": "Adventures",
+    "subtitle": "Everywhere we've been",
+    "photos": [
+      {
+        "src": "album/adventures/01.webp",
+        "w": 1000,
+        "h": 700,
+        "caption": "Lost, but together"
+      },
+      {
+        "src": "album/adventures/02.webp",
+        "w": 800,
+        "h": 1000
+      },
+      {
+        "src": "album/adventures/03.webp",
+        "w": 800,
+        "h": 800,
+        "caption": "Sunset watchers"
+      },
+      {
+        "src": "album/adventures/04.webp",
+        "w": 1000,
+        "h": 750
+      },
+      {
+        "src": "album/adventures/05.webp",
+        "w": 800,
+        "h": 1100
+      }
+    ]
+  },
+  {
+    "id": "everyday",
+    "title": "Everyday Us",
+    "subtitle": "The small moments I love most",
+    "photos": [
+      {
+        "src": "album/everyday/01.webp",
+        "w": 800,
+        "h": 1000,
+        "caption": "Sunday mornings"
+      },
+      {
+        "src": "album/everyday/02.webp",
+        "w": 1000,
+        "h": 700
+      },
+      {
+        "src": "album/everyday/03.webp",
+        "w": 800,
+        "h": 800
+      },
+      {
+        "src": "album/everyday/04.webp",
+        "w": 800,
+        "h": 1000,
+        "caption": "You, being you"
+      }
+    ]
+  }
+]
